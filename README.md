@@ -1,2 +1,3 @@
 # js-todo
-js todo app
+
+https://onur2677.github.io/js-todo/
